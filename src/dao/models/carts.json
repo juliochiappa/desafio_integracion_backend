@@ -1,11 +1,10 @@
-[
-  {
-    "products": []
-  },
-  {
-    "products": []
-  },
-  {
-    "products": []
-  }
-]
+{
+ 
+  "products": [
+    {
+      "product": {},
+      "quantity": 1
+    }
+    
+  ]
+}

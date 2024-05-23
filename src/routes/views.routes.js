@@ -1,7 +1,5 @@
 import { Router } from 'express';
 
-import config from '../config.js';
-
 const router = Router();
 
 router.get('/chat', (req, res) => {
@@ -11,6 +9,11 @@ router.get('/chat', (req, res) => {
 router.get('/products', (req, res) => {
     const data = [];
     res.render('products', { data: data });
+});
+
+router.get('/carts', (req, res) => {
+    const carts = []; 
+    res.render('carts', { carts: carts });
 });
 
 export default router;
