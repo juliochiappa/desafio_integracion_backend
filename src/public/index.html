@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafío Integración</title>
+</head>
+<body>
+    <h1>Ingreso de Productos</h1>
+
+    <form action="/api/products" method="post" enctype="multipart/form-data">
+        Título: <input type="text" name="title"><br />
+        Descripción <input type="text" name="description"><br />
+        Precio <input type="number" name="price"><br />
+        Imágen: <input type="file" name="thumbnail"><br />
+        Stock <input type="number" name="stock"><br />
+        Código: <input type="text" name="code"><br />
+        <!-- Estado <input type="boolean" name="status"><br />
+        Categoría <input type="text" name="category"><br /> -->
+
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>

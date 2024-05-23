@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "title": "Nombre producto",
+    "description": "Descripción producto",
+    "code": "dfe456",
+    "price": 2000,
+    "status": true,
+    "stock": 10,
+    "category": "Estética",
+    "thumbnails": [
+      "imagen1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Nombre producto",
+    "description": "Descripción producto",
+    "code": "abc123",
+    "price": 55000,
+    "status": true,
+    "stock": 10,
+    "category": "Estética(aparatología)",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen1.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 5,
+    "title": "Nombre estética",
+    "description": "Limpieza de cutis",
+    "code": "aaa111",
+    "price": 2000,
+    "status": true,
+    "stock": 10,
+    "category": "Estética",
+    "thumbnails": []
+  },
+  {
+    "id": 6,
+    "title": "Nombre estética",
+    "description": "Limpieza de cutis",
+    "code": "aaa222",
+    "price": 2000,
+    "status": true,
+    "stock": 10,
+    "category": "Estética",
+    "thumbnails": []
+  },
+  {
+    "id": 7,
+    "title": "Nombre estética",
+    "description": "Limpieza de cutis",
+    "code": "bbb222",
+    "price": 2000,
+    "status": true,
+    "stock": 10,
+    "category": "Estética",
+    "thumbnails": [
+      "imagen4.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Producto",
+    "description": "Nuevo",
+    "code": "fff333",
+    "price": "2000",
+    "status": true,
+    "stock": "7",
+    "category": "Estética",
+    "thumbnails": []
+  },
+  {
+    "id": 9,
+    "title": "Producto Estética",
+    "description": "Reducción grasa abdominal",
+    "code": "ddd232",
+    "price": "6500",
+    "status": true,
+    "stock": "10",
+    "category": "Estética",
+    "thumbnails": []
+  }
+]
